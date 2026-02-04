@@ -6,17 +6,11 @@ This project implements an AHB-to-APB bridge in Verilog HDL, enabling seamless c
 
 Features
 
-Fully synthesizable RTL implementation of AHB-to-APB bridge
-Supports AHB transfers and converts them into APB transactions
-Handles address, data, and control signal translation
-Designed with protocol timing and handshaking requirements in mind
+Fully synthesizable RTL implementation of AHB-to-APB bridge. Supports AHB transfers and converts them into APB transactions. Handles address, data, and control signal translation. Designed with protocol timing and handshaking requirements in mind.
 
 Verification
 
-Developed a self-checking Verilog testbench
-Simulated multiple read/write scenarios
-Verified protocol compliance using waveform analysis
-Ensured correct APB setup, enable, and access phases
+Developed a self-checking Verilog testbench. Simulated multiple read/write scenarios. Verified protocol compliance using waveform analysis. Ensured correct APB setup, enable, and access phases.
 
 Tools & Technologies
 
